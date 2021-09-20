@@ -1,0 +1,62 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ricardo Rodrigues de Souza</title> 
+    <style>        
+        .divBody{            
+            font-family: Verdana, sans-serif;
+            margin-left: 40px;            
+        }
+        .pBody{            
+            font-size: large;
+        }
+        .pContato{
+            font-size: large;
+            margin-left: 80px;
+        }        
+    </style>      
+</head>
+<body style="background-color: #F0F0FF;">    
+    <div>
+        <img style= "vertical-align: middle; margin-left: 40px;" src="profile-200x356.jpg" alt="Foto do Rosto">
+        <span style="vertical-align: middle; margin-inline-start: 450px; font-size:xx-large; font-weight: 600; font-family: Verdana, sans-serif;">Ricardo Rodrigues de Souza</span>
+    </div>    
+    <hr>
+    <div class="divBody">
+        <h2>INFORMAÇÕES PESSOAIS</h2>
+        <ul>
+            <li><p class="pBody"><strong>Data de Nascimento:</strong> 12/02/1999</p></li>
+            <li><p class="pBody"><strong>Endereço:</strong> Vitória - ES</p></li>
+            <li><p class="pBody"><strong>Estado Civil:</strong> Solteiro</p></li>   
+            <h3 style="margin-left: 30px; font-size: large;">CONTATO:</h3>
+            <p class="pContato"><strong>Telefone:</strong> (27) 98103-5107 </p>
+            <p class="pContato">
+                <img src="email-24x24.png" alt="Ícone Email">
+                <a href="mailto:rr_souza@outlook.com" target="_blank"><strong>E-mail</strong></a>            
+            <p class="pContato">
+                <img src="linkedin-24x24.png" alt="Logo Linkedin">
+                <a href="https://www.linkedin.com/in/rrsouzaa/" target="_blank"><strong>Linkedin</strong></a>
+            </p>
+        </ul>
+    </div>
+    <hr>    
+    <div class="divBody">
+        <h2>CURSOS E CERTIFICADOS</h2>
+        <ul>
+            <li><p class="pBody"><strong>Conclusão do Ensino Médio</strong> no Colégio Adventista de Vitória em 2016</p></li>
+            <li><p class="pBody"><strong>Certificado de Proficiência em Inglês</strong> pela Cambridge University, emitido em 2015</p></li>
+            <li><p class="pBody"><strong>Ensino Superior</strong> em andamento. 4º período de Sistemas de Informação pela FAESA</p></li>
+        </ul>
+    </div>
+    <hr>
+    <div class="divBody">
+        <h2>EXPERIÊNCIA PROFISSIONAL</h2>
+        <ul>
+            <li><p class="pBody"><strong>Auxiliar em Laboratório de Topografia</strong> - 6 meses no UNASP-EC em 2018</p></li>
+            <li><p class="pBody"><strong>Estagiário</strong> na Motora.ai desde Abril de 2021</p></li>
+        </ul>
+    </div>
+</body>
+</html>
